@@ -17,7 +17,7 @@ const shaiel = {
     pronouns: "she/her",
     age: "📅 22",
     location: "📍 Aguilares, Tucumán, Argentina",
-    currently_studying: "💼 Tecnica universitaria en Programacion",
+    currently_studying: "💼 Tecnicatura universitaria en Programacion, Licenciatura en Ciberdefensa",
     status: "✨ Creating magical web experiences ✨"
 };
 ```
